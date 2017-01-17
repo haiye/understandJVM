@@ -1,0 +1,18 @@
+!SESSION 2017-01-05 21:52:26.505 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.mat.ui 1 0 2017-01-05 22:06:14.040
+!MESSAGE Detected compressed references, because with uncompressed 64-bit references the array at 0xff802890 would overlap the array at 0xff802838
+
+!ENTRY org.eclipse.mat.ui 1 0 2017-01-05 22:06:14.098
+!MESSAGE Wrote threads call stacks to C:\Users\haiye\codeProject\github\understandJVM\javaProject\java_pid5760.threads
+
+!ENTRY org.eclipse.mat.ui 1 0 2017-01-05 22:06:14.217
+!MESSAGE Heap C:\Users\haiye\codeProject\github\understandJVM\javaProject\java_pid5760.hprof contains 817,714 objects
+
+!ENTRY org.eclipse.mat.ui 1 0 2017-01-05 22:06:15.425
+!MESSAGE Removed 1,499 unreachable objects using 115,032 bytes
